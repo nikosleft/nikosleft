@@ -36,7 +36,7 @@ _Context Nexus_ is an AI-powered copilot for **Unreal Engine 5** that understand
 ---
 
 ## 📫 Contact
-- **Email:** hello@contextnexus.dev
+- **Email:** contextnexus@gmail.com
 - **X / Twitter:** @ContextNexus
 - **Updates:** DM or email for the waitlist
 
